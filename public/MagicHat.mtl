@@ -1,0 +1,17 @@
+# Blender MTL File: 'MagicHat.blend'
+# Material Count: 1
+
+newmtl MagicHat
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Prog\\Blender\\Blender projects\\Magic hat\\MagicHat textures\\MagicHat_Normal.png
+map_Kd D:\\Prog\\Blender\\Blender projects\\Magic hat\\MagicHat textures\\MagicHat_BaseColor.png
+map_Ke D:\\Prog\\Blender\\Blender projects\\Magic hat\\MagicHat textures\\MagicHat_Emissive.png
+map_Ns D:\\Prog\\Blender\\Blender projects\\Magic hat\\MagicHat textures\\MagicHat_Roughness.png
+refl D:\\Prog\\Blender\\Blender projects\\Magic hat\\MagicHat textures\\MagicHat_Metallic.png

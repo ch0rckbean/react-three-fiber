@@ -3,7 +3,7 @@ import { Canvas, useFrame } from '@react-three/fiber';
 import { PerspectiveCamera, CameraControls } from '@react-three/drei';
 import { useGLTF } from '@react-three/drei';
 
-export default function LoadHBGModel(props) {
+export default function GltfModel(props) {
   const groupRef = useRef();
   const { nodes, materials } = useGLTF('/hamburger-draco.glb');
   return (
