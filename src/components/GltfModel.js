@@ -9,7 +9,11 @@ export default function GltfModel(props) {
   return (
     <>
       <Canvas
-        style={{ width: '100%', height: '100vh', background: 'orangered' }}
+        style={{
+          width: '100%',
+          height: '100vh',
+          background: 'orangered',
+        }}
         camera={{ position: [20, 10, 0] }}
       >
         <CameraControls minPolarAngle={0} maxPolarAngle={Math.PI / 0.5} />

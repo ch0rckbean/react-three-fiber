@@ -7,7 +7,8 @@ import ObjModel from './components/ObjModel';
 function App() {
   return (
     <div className='AppDiv'>
-      <ObjModel />
+      {/* <ObjModel /> */}
+      <GltfModel />
     </div>
   );
 }
